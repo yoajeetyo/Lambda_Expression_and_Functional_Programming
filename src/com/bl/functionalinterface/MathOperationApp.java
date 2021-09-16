@@ -2,8 +2,9 @@ package com.bl.functionalinterface;
 
 @FunctionalInterface
 interface IMathFunction{
+	
 	int calculate(int a , int b);
-}
+	}
 
 public class MathOperationApp {
 	
